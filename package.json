@@ -1,0 +1,12 @@
+{
+  "name": "excel2oracle",
+  "version": "0.0.1",
+  "description": "extract excel data to oracle db",
+  "main": "index.js",
+  "repository": "https://github.com/sankyi/exceltooracle.git",
+  "author": "minlon <sankyi@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "oracledb": "file:oracledb"
+  }
+}
